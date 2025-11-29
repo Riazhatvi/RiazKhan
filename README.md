@@ -39,7 +39,9 @@ I create educational content about **n8n**, **AI automation**, and real-world wo
 
 ⭐ **Feel free to explore my repositories or reach out for collaboration!**
 
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
