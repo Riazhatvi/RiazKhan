@@ -1,5 +1,46 @@
-# 💫 About Me:
-I’m Riaz Khan, an AI automation engineer specializing in end-to-end workflow development with n8n, Python, and Google Cloud.<br>I build intelligent systems for video generation, data pipelines, and large-scale annotation projects.<br>My work includes custom API integrations, FFmpeg/Whisper automation, and AI-powered content creation tools.<br>I’ve delivered complete automation solutions for agencies, startups, and international clients.<br>Passionate about solving real-world problems with scalable, production-ready AI workflows.<br><br>If you want a more casual, more technical, or more recruiter-friendly version, I can generate those too.
+#  About Me:
+# 👋 Hi, I'm Riaz Khan
+
+I'm an **AI Automation Engineer, Data Analyst, and Content Creator** specializing in **n8n**, **AI workflows**, and **automation systems**.  
+I create educational content about **n8n**, **AI automation**, and real-world workflows while building production-level solutions for clients worldwide.
+
+## 🚀 About Me
+- 🔧 Expert in **n8n**, **Python**, **FastAPI**, **Google Cloud VM**, **FFmpeg**, **Whisper**, **ElevenLabs**, and API integrations  
+- 📊 Strong background in **SPSS**, **Tableau**, **Power BI**, **data analytics**, and visualization  
+- 🤖 Build advanced AI workflows, chatbots, automation bots, and backend systems  
+- 🎥 Creator of full video-automation pipelines (AI scripts → AI voice → Veo3 → editing → delivery)  
+- 🏷️ Completed **75,000+ image annotations** and large ML dataset projects  
+- 🛠 Experience with scraping, data pipelines, analytics dashboards, and AI operator tasks  
+
+## 📂 What I Build
+- ⚙️ End-to-end AI automation systems (n8n + Python + Cloud)  
+- 🎬 Complete Instagram Reels/short-video generators using Veo3 + FFmpeg  
+- 🔍 Data analytics dashboards (Tableau, Power BI, SPSS)  
+- 🤖 AI chatbots, conversation flows & custom API-based automations  
+- 🧠 Human-in-loop AI tagging systems  
+- 🌐 Website automations, scraping, monitoring & CRM integrations  
+
+## 🌐 My Websites
+- 🔗 Portfolio: https://riazhatvi.com/  
+- 🔗 AI Automation Agency: https://northneural.com/  
+
+## 🧑‍💼 Upwork Profile
+- 💼 https://www.upwork.com/freelancers/~0137ef025e98cd920c  
+
+## 🏆 Highlights From My Work
+- Built multiple **AI video creation bots** using n8n + Veo3 + ElevenLabs  
+- Developed fully automated pipelines for **agencies, startups, and influencers**  
+- Delivered **large-scale dataset projects**, including 75k+ annotations  
+- Created **ChatGPT-powered** assistants, customer bots, and automation agents  
+- Designed **data dashboards** and business intelligence solutions  
+- Automated workflows that save clients **hours of manual work daily**  
+
+---
+
+⭐ **Feel free to explore my repositories or reach out for collaboration!**
+
+
+
 
 
 ## 🌐 Socials:
@@ -21,4 +62,4 @@ I’m Riaz Khan, an AI automation engineer specializing in end-to-end workflow d
 ---
 [![](https://visitcount.itsvg.in/api?id=Riazhatvi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with Riazhatvi ( https://riazhatvi.com ) -->
